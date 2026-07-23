@@ -235,9 +235,6 @@
 ### LLM 기반 OOO ERP Help Desk 업무자동화 Sysytem 프롬프트 패키지 
 ### - MPS, MRPII, 자재발주 Q&A 및 문제 대응 자동화 -
 
-
-
-
 | 항목 | 내용 |
 |---|---|
 | 대상 시스템 | OOO ERP Help Desk |
