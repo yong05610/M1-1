@@ -1,8 +1,8 @@
 # GenAI 기초1 LLM 기반 업무 자동화 프롬프트 패키지
 
 
-### LLM 기반 OOO ERP Help Desk 업무자동화 Sysytem 프롬프트 패키지 구성 
-### - MPS, MRPII, 자재발주 Q&A 및 문제 대응 자동화 -
+## LLM 기반 OOO ERP Help Desk 업무자동화 Sysytem 프롬프트 패키지 구성 
+## - MPS, MRPII, 자재발주 Q&A 및 문제 대응 자동화 -
 
 
 # 산출물 1. LLM 모델 비교·선정 보고서
