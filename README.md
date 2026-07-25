@@ -206,7 +206,7 @@ Help Desk 용도로는 치명적 결격.
 
 ### 2.5. 타겟 사용자
 
-    OOO ERP System 사용자, Key User, 공급사의 (초중급)유지보수 담당자  
+ #### OOO ERP System 사용자, Key User, 공급사의 (초중급)유지보수 담당자  
 
 ### 2.6. 입력Data
   
